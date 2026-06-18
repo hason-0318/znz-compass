@@ -1,0 +1,23 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <color name="compass_face_bg">#FFF5F0EB</color>
+     <color name="compass_ring">#FF4A4A4A</color>
+     <color name="compass_mark">#FF666666</color>
+     <color name="compass_mark_major">#FF1A1A1A</color>
+     <color name="compass_north">#FFD32F2F</color>
+     <color name="compass_south">#FF1A1A1A</color>
+     <color name="compass_needle_north">#FFD32F2F</color>
+     <color name="compass_needle_south">#FFFFFFFF</color>
+     <color name="color_primary">#FF1A237E</color>
+     <color name="color_primary_dark">#FF0D1642</color>
+     <color name="color_accent">#FF448AFF</color>
+     <color name="color_on_primary">#FFFFFFFF</color>
+     <color name="color_surface">#FFF5F5F5</color>
+     <color name="color_surface_dark">#FF121212</color>
+     <color name="color_on_surface">#FF1C1B1F</color>
+     <color name="color_on_surface_dark">#FFE6E1E5</color>
+     <color name="bearing_text">#FF1A237E</color>
+     <color name="info_text">#FF616161</color>
+     <color name="direction_text">#FFD32F2F</color>
+     <color name="time_text">#FF448AFF</color>
+ </resources>
