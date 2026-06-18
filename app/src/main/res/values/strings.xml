@@ -1,0 +1,19 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_name">指南针</string>
+     <string name="direction_north">北</string>
+     <string name="direction_north_east">东北</string>
+     <string name="direction_east">东</string>
+     <string name="direction_south_east">东南</string>
+     <string name="direction_south">南</string>
+     <string name="direction_south_west">西南</string>
+     <string name="direction_west">西</string>
+     <string name="direction_north_west">西北</string>
+     <string name="degree_format">%.0f°</string>
+     <string name="location_unknown">定位中…</string>
+     <string name="location_format">经度: %.4f  纬度: %.4f</string>
+     <string name="permission_location_rationale">需要位置权限以获取您当前的经纬度信息</string>
+     <string name="permission_location_denied">位置权限被拒绝，无法显示定位信息</string>
+     <string name="true_north">真北</string>
+     <string name="magnetic_north">磁北</string>
+ </resources>
